@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "wingetinstall"
+    ],
+    "gitlens.statusBar.dateFormat": "",
+    "gitlens.hovers.annotations.over": "annotation",
+    "gitlens.hovers.changesDiff": "line",
+    "editor.formatOnSave": true,
+    "telemetry.editStats.details.enabled": true,
+    "application.experimental.rendererProfiling": true,
+    "telemetry.performance.inputLatencySamplingProbability": 1,
+    "chatCustomizationsEvaluations.customDiagnostics": []
+}
